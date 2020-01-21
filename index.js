@@ -1,5 +1,6 @@
 /**
  * @format
+ * pattanapong daokanong
  */
 
 import {AppRegistry} from 'react-native';
